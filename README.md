@@ -4,6 +4,6 @@
 
 > 参考《南瓜书》：https://github.com/datawhalechina/pumpkin-book
 
-[第一章 绪论](./Chapter-1.md)
+[第一章 绪论](https://github.com/Carol0829/Machine-Learning-Notes/blob/main/Chapter%201.md)
 
-[第二章 模型评估与选择](./Chapter-2.md)
+[第二章 模型评估与选择](https://github.com/Carol0829/Machine-Learning-Notes/blob/main/Chapter%202.md)
