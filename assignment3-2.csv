@@ -1,0 +1,71 @@
+Day,A,B,CEO for A,Text 1,Text 2
+1,-1.139378405,1.360625336,John,Breakthrough in AI Research Promises New Era of Innovation,Breakthrough Cancer Drug Shows Promising Results in Clinical Trials
+2,-0.341601072,0.554014975,John,,
+3,-0.552410133,0.478339786,John,,Controversy Surrounds Biopharma Firm Over Allegations of Misconduct in Clinical Trials
+4,-0.486415387,0.174903197,John,Setback in Quantum Computing Research Raises Doubts About Future Applications,
+5,-0.535225238,0.631698783,John,,
+6,0.198466955,0.459437113,John,,New Vaccine Offers Hope for Eradicating Deadly Infectious Disease
+7,-0.36643809,-0.205090631,John,Cybersecurity Firm Unveils Cutting-Edge Solution to Combat Emerging Threats,
+8,-0.476451299,0.632838582,John,,
+9,-0.692158938,0.583380259,John,,High-profile Lawsuit Challenges Patent Rights of Biopharma Industry Leader
+10,-0.691378858,-0.180405361,John,"Remote Work Strains IT Systems, Leading to Increased Downtime and Frustration",
+11,-0.403849751,0.489332845,John,,
+12,0.23121007,0.500301533,John,,"Drug Recall Issued Due to Safety Concerns, Raises Questions About Oversight"
+13,-0.434668938,0.545711166,John,,
+14,-0.516956685,0.40017209,John,"Data Breach Exposes Millions of Users' Personal Information, Raises Privacy Concerns",
+15,0.095531791,0.48026583,John,,Biopharma Collaboration Leads to Development of Innovative Immunotherapy
+16,-0.488446368,0.507550349,John,Augmented Reality App Transforms Learning Experience for Students Worldwide,
+17,-0.4921665,0.500888692,John,,
+18,-0.458140425,0.58388311,John,,Breakthrough in Stem Cell Research Opens Doors for Regenerative Medicine
+19,-0.506491976,0.445758724,John,,
+20,-0.498917977,-0.103843353,John,"Tech Industry Faces Criticism for Environmental Impact, Calls for Greener Practices",
+21,-0.49164407,0.218032358,John,,
+22,-0.434424279,0.478636503,John,,Concerns Raised Over Potential Side Effects of New Biopharmaceutical Treatment
+23,-1.634917119,0.617315592,John,,Supply Chain Disruption Causes Shortage of Critical Medications
+24,-0.452071901,0.544038386,John,,
+25,-0.338242838,0.467027025,John,,
+26,-0.476385638,-0.441141842,John,"Blockchain Project Hacked, Millions of Dollars Stolen in Cryptocurrency",
+27,0.368802025,0.216082424,John,5G Rollout Delayed Due to Infrastructure Challenges and Regulatory Hurdles,Biotech Company Receives FDA Approval for Groundbreaking Gene Therapy
+28,-0.489487668,0.519446635,John,,
+29,-0.242770286,0.622531159,John,Cloud Outage Disrupts Services for Thousands of Businesses Worldwide,
+30,-0.645637228,0.461348693,John,,
+31,-0.556546271,0.533184979,John,,
+32,0.52661197,0.38425125,John,,Clinical Trial Success: Drug Candidate Demonstrates Significant Efficacy in Treating Chronic Conditions
+33,-0.705030149,1.004244058,John,"Tech Giants Commit to Sustainable Practices, Leading the Charge for Green Technology",
+34,-0.295142178,0.554310959,John,,
+35,-0.53172083,0.430322427,John,,
+36,-0.616091464,0.686962619,John,,
+37,-0.511029123,1.569439964,John,Successful Implementation of 5G Technology Boosts Connectivity in Rural Areas,Drug Company Pledges Affordable Access to Life-Saving Medication in Developing Countries
+38,-1.03838371,0.547858595,John,,Clinical Trial Failure Deals Blow to Biopharma Company's Pipeline
+39,-0.367587481,0.178295117,John,,
+40,-0.59497365,0.38037268,John,,
+41,-0.546877983,-0.761670499,John,AI Algorithm Error Causes Costly Mistakes in Financial Markets,
+42,0.382269617,0.591319695,John,,Regulatory Setback Halts Progress on Promising Drug Development
+43,-0.431358033,0.558355595,John,,
+44,-0.407170753,1.01906669,John,Security Flaws in IoT Devices Pose Threats to Consumer Privacy and Safety,
+45,-0.408591648,0.397191244,John,,
+46,-0.985385935,0.517461056,John,,Biopharma Firm's Drug Receives Fast-Track Designation for Rare Pediatric Disorder
+47,0.016419885,0.429695052,John,,Revolutionary CRISPR Technology Holds Promise for Treating Genetic Disorders
+48,-0.473810625,0.501018905,John,,
+49,-0.613040247,0.712463832,John,Augmented Reality Glasses Recalled Due to Health and Safety Risks,
+50,-0.597685654,1.114034156,John,"Remote Work Spurs Innovation in Collaboration Tools, Driving Productivity",
+51,1.549680212,0.512119283,Susan,,Ethical Dilemma: Debate Erupts Over Access to Expensive Specialty Drugs
+52,1.175733435,0.62321102,Susan,,
+53,1.850763865,1.015696981,Susan,Startup's Revolutionary Blockchain Solution Aims to Disrupt Finance Industry,
+54,1.007196276,0.631296996,Susan,,
+55,1.012169781,0.574721068,Susan,,Research Team Discovers Potential Treatment for Alzheimer's Disease
+56,1.164479051,0.645607363,Susan,,
+57,1.036035539,0.411361579,Susan,,
+58,0.969214236,0.533162102,Susan,,
+59,0.796347553,0.497968707,Susan,,
+60,0.692345698,0.34484172,Susan,,
+61,0.995875604,0.450007903,Susan,,
+62,0.813786524,0.343501091,Susan,,
+63,1.230374702,0.934066824,Susan,Major Tech Companies Join Forces to Accelerate Development of Quantum Computing,Pricing Controversy: Biopharma Company Faces Criticism for Exorbitant Drug Costs
+64,0.974564832,0.613366321,Susan,,
+65,1.008410637,0.361750011,Susan,,
+66,0.97179533,0.314050416,Susan,,
+67,0.366481054,0.588444971,Susan,,Biopharma Stock Plummets Following Disappointing Quarterly Earnings Report
+68,0.870404535,0.521752355,Susan,,
+69,0.950334097,0.494217198,Susan,,
+70,1.102584776,0.473619547,Susan,,
